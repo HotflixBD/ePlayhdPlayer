@@ -1,10 +1,12 @@
-<html lang="en">
+
+
+ <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ePlayHD</title>
     <script src="https://use.fontawesome.com/20603b964f.js"></script>
-    <script src="//content.jwplatform.com/libraries/IDzF9Zmk.js"></script>
+    <script src="https://content.jwplatform.com/libraries/IDzF9Zmk.js"></script>
     <script type="text/javascript">jwplayer.key = 'ypdL3Acgwp4Uh2/LDE9dYh3W/EPwDMuA2yid4ytssfI=';</script>
 </head>
 <body>
